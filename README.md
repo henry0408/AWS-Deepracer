@@ -1,4 +1,12 @@
 # AWS-Deepracer
+
+
+
+
+https://user-images.githubusercontent.com/58734009/203852944-1f798bdb-a50a-404a-8e4e-69f0ac352002.mp4
+
+
+
 Some reward functions used in AWS Deepracer.
 
 <div align="center">
